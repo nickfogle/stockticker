@@ -12,16 +12,6 @@ Install socket.io
 
 If there are errors when installing socket.io, check http://stackoverflow.com/questions/12913141/installing-from-npm-fails
 
-	Try
-
-	sudo apt-get update
-	sudo apt-get install -y python-software-properties python g++ make
-	sudo add-apt-repository ppa:chris-lea/node.js
-	sudo apt-get update
-	sudo apt-get install nodejs
-
-	then npm install socket.io
-
 Update the following information variables in streaming.js:
 
     domain

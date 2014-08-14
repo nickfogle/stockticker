@@ -4,7 +4,6 @@ var fs = require('fs');
 var last;
 var tick;
 
-
 /*
 Environment           <Domain>
 fxTrade               stream-fxtrade.oanda.com

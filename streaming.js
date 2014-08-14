@@ -14,8 +14,8 @@ sandbox               stream-sandbox.oanda.com
 
 // Replace the following variables with your personal ones
 var domain = 'stream-fxpractice.oanda.com'
-var access_token = 'ACCESS-TOKEN'
-var account_id = '12345'
+var access_token = 'token here'
+var account_id = 'account id'
 // Up to 10 instruments, separated by URL-encoded comma (%2C)
 var instruments = "EUR_USD%2CUSD_CAD"
 

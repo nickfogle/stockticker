@@ -5,7 +5,6 @@ A demo application in Javascript for streaming rates using OANDA API and socket.
 
 ### Setup
 
-Clone this repo to the location of your choice
 
 Install socket.io
 
